@@ -42,9 +42,9 @@ The dataset and Jupyter Notebook are included to help users review the analysis 
 - `StudentsPerformance.csv` – Student performance dataset
 - `Students_Performance_Analysis.ipynb` – Data analysis notebook
 - `README.md` – Project documentation
-- Students_Performance_Analysis_Presentation.pptx – Project presentation slides
+- `Students_Performance_Analysis_Presentation.pptx` – Project presentation slides
 - `visualizations/` – Selected charts and graphs
-- slide/ – Presentation slide images, including Dataset Overview and Key Findings
+- `slide/` – Presentation slide images, including Dataset Overview and Key Findings
 
 *Note: Update the filenames above to match the actual filenames in your GitHub repository.*
 
@@ -293,12 +293,12 @@ The project also demonstrates practical skills in data cleaning, exploratory dat
 
 **Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
 
-##👤 Author
+## 👤 Author
 
 # Honey Stanly
 
- ##📊 Students Performance Analysis: Exploratory Data Analysis & Academic Insights.
+ ## 📊 Students Performance Analysis: Exploratory Data Analysis & Academic Insights.
 
 
-  ##Data Analytics Enthusiast | Customer Support SME | Operations Analyst
+  ## Data Analytics Enthusiast | Customer Support SME | Operations Analyst
 
