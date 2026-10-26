@@ -241,8 +241,10 @@ Add your saved chart images to the `visualizations/` folder and display them usi
 ## 📁 Repository Structure
 
 ```text
+Students-Performance-Analysis/
 ├── Students_Performance_Analysis.ipynb
 ├── StudentsPerformance.csv
+├── Students_Performance_Analysis_Presentation.pptx
 ├── README.md
 ├── slide/
 │   ├── dataset_overview.png
