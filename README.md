@@ -239,10 +239,12 @@ Add your saved chart images to the `visualizations/` folder and display them usi
 ## 📁 Repository Structure
 
 ```text
-Students-Performance-Analysis/
 ├── Students_Performance_Analysis.ipynb
 ├── StudentsPerformance.csv
 ├── README.md
+├── slide/
+│   ├── dataset_overview.png
+│   └── key_findings.png
 └── visualizations/
     ├── math_score_distribution.png
     ├── reading_score_distribution.png
@@ -252,13 +254,11 @@ Students-Performance-Analysis/
     └── subject_score_correlation.png
 ```
 
-*The filenames shown above are examples. Replace them with your actual uploaded filenames.*
 
 ## 📊 Project Presentation
 
 The PowerPoint presentation summarizes the Students Performance Analysis project, including the project objectives, dataset description, methodology, exploratory data analysis, visualizations, key findings, and recommendations.
 
-**Presentation:** Add your actual PowerPoint filename and GitHub link here.
 
 ### Presentation Highlights
 
@@ -271,7 +271,17 @@ The PowerPoint presentation summarizes the Students Performance Analysis project
 - Key Findings and Business/Educational Insights
 - Recommendations and Conclusion
 
+- ## 📊 Presentation Slides
+
+### Dataset Overview
+![Dataset Overview](slide/dataset_overview.png)
+
+### Key Findings & Insights
+![Key Findings](slide/key_findings.png)
+
+
 ## 👨‍💻 Conclusion
+
 
 This project demonstrates how Python-based data analytics can be used to explore student academic performance and identify meaningful patterns across mathematics, reading, and writing scores. The findings can help educators better understand group-level differences and identify areas for further investigation.
 
