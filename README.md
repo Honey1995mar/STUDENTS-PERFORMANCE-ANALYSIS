@@ -42,7 +42,9 @@ The dataset and Jupyter Notebook are included to help users review the analysis 
 - `StudentsPerformance.csv` – Student performance dataset
 - `Students_Performance_Analysis.ipynb` – Data analysis notebook
 - `README.md` – Project documentation
+- Students_Performance_Analysis.pptx – Project presentation slides
 - `visualizations/` – Selected charts and graphs
+- slide/ – Presentation slide images, including Dataset Overview and Key Findings
 
 *Note: Update the filenames above to match the actual filenames in your GitHub repository.*
 
