@@ -293,3 +293,12 @@ The project also demonstrates practical skills in data cleaning, exploratory dat
 
 **Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn | Jupyter Notebook
 
+##👤 Author
+
+# Honey Stanly
+
+ ##📊 Students Performance Analysis: Exploratory Data Analysis & Academic Insights.
+
+
+  ##Data Analytics Enthusiast | Customer Support SME | Operations Analyst
+
